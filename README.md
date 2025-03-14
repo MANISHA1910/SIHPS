@@ -1,65 +1,51 @@
 # Smart India Hackathon Workshop
-# Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+# Date: 11/03/2025
+## Register Number:212224220061
+## Name:MANISHA.M
 
 ## Problem Title 
+Elderly people and patients with chronic diseases (heart disease, diabetes) require continuous monitoring, which is often expensive or unavailable.
 
-
-E-Waste Facility Locator
+Healthcare and biomedical devices
 ## Problem Description
-Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
+.Elderly people and patients with chronic diseases (heart disease, diabetes) require continuous monitoring, which is often expensive or unavailable.
+
 ## Problem Creater's Organization
 Ministry of Environment
 
 ## Idea
-1.Nearest E-Waste Facility Locator:
-Use Geocoding AI to find nearby e-waste facilities based on the user's current location.
-Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility.
-
-2.Virtual Assistant:
-Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
-
-3.Educational Pop-ups:
-Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
-
-4.Reward Points System:
-Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
-
-5.Real-time Analytics Dashboard:
-Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
 
 
+1.AI-powered Symptom Checker – A chatbot to analyze symptoms and suggest possible medical conditions.
 
+2.Wearable for Elderly Health Monitoring – A smart band that alerts family members and doctors in case of emergencies.
 
+3.Low-cost Prosthetic Limbs with 3D Printing – Develop affordable prosthetics using advanced materials.
+
+4.Mental Health Companion App – AI-driven therapy chatbot for stress and anxiety management.
+
+5.Smart Pill Dispenser – A device that reminds and dispenses medicine at scheduled times.
 
 
 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](image-1.png)
+!![Screenshot (244)](https://github.com/user-attachments/assets/86b6fbe6-0802-438c-9445-ad4dd7180e7a)
 
 ## Use Cases
-![alt text](10-2.jpg)
+![Screenshot (243)](https://github.com/user-attachments/assets/37e80ebb-c17c-4e53-83f0-834472811658)
 
 ## Technology Stack
-React.js
 
-Node.js 
 
-PostgreSQL
+1.AI/ML – TensorFlow, PyTorch
 
-Google maps
+2.NLP – Dialogflow, GPT-based models
 
-Firebox Authenticator
+3.Mobile App – Flutter, React Native
 
-Git , Postman or Insomnia
+IMPACT
 
-## Dependencies
+*Reduces unnecessary hospital visits.
 
-Mapping service- 10 days
-
-Data collection- 10 days
-
-budget- rs.50,000
-
+*Increases healthcare accessibility in rural areas.
